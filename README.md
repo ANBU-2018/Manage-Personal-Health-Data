@@ -11,43 +11,45 @@ Integration with Google Maps API to display the location of healthcare providers
 
 ## Technologies Used
 JavaScript   
-Node.js
-Express.js
-MongoDB
-Mongoose
-Bootstrap
-Google Maps API
+Node.js  
+Express.js  
+MongoDB     
+Mongoose  
+Bootstrap  
+Google Maps API  
 
 ## Installation
-To install the application, follow these steps:
-
-  Clone the repository to your local machine:
-     git clone https://github.com/ANBU-2018/Manage-Personal-Health-Data.git
-
-  Install the dependencies:
-     npm install
-     
-  Start the application:
-      npm start
-      Open a web browser and navigate to http://localhost:3000
-## Usage
-To use the application, follow these steps:
-
-  Register a new account or log in to an existing account
-  Add your health records, including medical history, medications, and appointments
-  View and manage your health records
-  Share your records with healthcare providers and family members
- 
-## Contributions
-  Contributions to the project are welcome. If you would like to contribute, please follow these steps:
-    Fork the repository
-    Create a new branch for your feature or bug fix
-    Commit your changes
-    Push your changes to your fork
-    Create a pull request
+To install the application, follow these steps:  
   
+  Clone the repository to your local machine:  
+     git clone https://github.com/ANBU-2018/Manage-Personal-Health-Data.git  
+  
+  Install the dependencies:  
+     npm install  
+       
+  Start the application:  
+      npm start  
+      Open a web browser and navigate to http://localhost:3000  
+        
+## Usage
+To use the application, follow these steps:  
+  
+  Register a new account or log in to an existing account  
+  Add your health records, including medical history, medications, and appointments  
+  View and manage your health records  
+  Share your records with healthcare providers and family members  
+ 
+## Contributions  
+  Contributions to the project are welcome. If you would like to contribute, please follow these steps:  
+    Fork the repository  
+    Create a new branch for your feature or bug fix  
+    Commit your changes  
+    Push your changes to your fork  
+    Create a pull request  
+    
 ## Credits
-The application was developed by [Your Name] for [School/University Name]'s [Course Name].
+The application was developed by Ankit,Babin,Nabin and Nischal for Kathmandu 
+University's Fifth Semester Sem Project Comp 311.  
 
-##License
-The application is licensed under the MIT License.
+## License  
+The application is licensed under the MIT License.  
