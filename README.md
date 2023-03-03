@@ -3,8 +3,8 @@
 Manage Personal Health Data is a web-based application that allows users to keep track of their health records, including medical history, medications, appointments, and more. The application provides a user-friendly interface for adding, editing, and viewing health records, and allows users to share their records with healthcare providers and family members.
 
 ## Features
-User authentication and authorization using JSON Web Tokens (JWT) /n
-Secure storage of health records in a MongoDB database /n
+User authentication and authorization using JSON Web Tokens (JWT) \n
+Secure storage of health records in a MongoDB database \n
 Responsive and mobile-friendly user interface using Bootstrap
 CRUD (Create, Read, Update, Delete) operations for health records
 Integration with Google Maps API to display the location of healthcare providers
